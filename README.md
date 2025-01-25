@@ -2,14 +2,15 @@
 
 #### :man: About
 
-I am a Software Engineer with many years of experience. Software engineering is not only my daily job but also my main interest. I have a professional attitude and despite improving during every day of work I also try to extend my knowledge in my spare time. The business value is most important for me, so I focus mainly on modeling business logic and solving specific domain problems with proper tools. Programming languages, technologies, etc. are not a barrier for me. I like to share knowledge with others by writing on my blog or sometimes giving presentations.
+I am a senior software engineer from Poland with more than 10 years of experience, combining a pragmatic approach with a passion for solving complex problems, always tailoring solutions to meet business needs. My work is guided by a strong focus on TDD, DDD, architecture, scalability, and performance. Software engineering isn’t just my profession - it’s my main interest, and I’m constantly striving to learn and improve. 
+
+My blog is a space to share insights, practical knowledge, and experiences from the engineering world. [sarvendev.com](https://sarvendev.com/)
 
 #### :star: Featured:
 - **Unit testing tips by examples in PHP** - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips)
 
 #### 📫 Links:  
-- Twitter: [Sarvendev](https://twitter.com/Sarvendev)
-- Blog: [sarvendev.com](https://sarvendev.com/en/)  
+- Twitter: [Sarvendev](https://twitter.com/Sarvendev) 
 - LinkedIn: [in/kamilruczynski](https://www.linkedin.com/in/kamilruczynski/)
 
 
